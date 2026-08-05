@@ -1,14 +1,23 @@
 #ignore everything by default
 *
-
-#do not ignore freecad files
-!*.FCStd
-#do not ignore anything inside export folder
-!*/		#allow git to traverse through folders
-!export/*
-
+#allow git to traverse through folders
+!*/
+		
 #include .gitignore, license and readme files
 !.gitignore
 !LICENSE
 !README.md
+
+#do not ignore images
+!images/*
+
+#do not ignore anything inside export folder
+!export/*
+
+#do not ignore freecad files
+!*.FCStd
+
+
+
+
 
