@@ -6,6 +6,7 @@ a parametric 3d model for holding linear tools like screwdrivers, filers.
 ![example-use](images/example-use.jpg)
 ![example-use-withPliers](images/example-use-withPliers.jpeg)
 ![example-use-rod-holder](images/example-use-rodHolder.jpg)
+![example-use-rod-holder with big tools](images/example-use-rodHolder2.jpg)
 
 ## License
 
